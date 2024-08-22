@@ -12,7 +12,7 @@
 ---
 ### Projects:
 - [Enterprise Business Glossary](https://github.com/nurrsuaidah/business-glossary)
-- [Netflix](https://github.com/nurrsuaidah/business-glossary)
+- [Netflix](https://github.com/nurrsuaidah/data-transformation-and-visualization)
 
 ---
 ### Languages and Tools: 
