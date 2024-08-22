@@ -1,4 +1,8 @@
-![](https://komarev.com/ghpvc/?username=nabilarahmat&style=for-the-badge&color=orange)
+![](https://komarev.com/ghpvc/?username=nurrsuaidah&style=for-the-badge&color=orange)
+
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5lcTIxODhvMHE5N2Z0a2Myd3JpYjh1bmRwZ3ZqMDF3dmNqMWI0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1w0yvMxBIv5M8WkL8/giphy.webp" width="100"/>
+</div>
 
 ### Hi there 👋
 - 🔭 I’m currently working on Data Engineering projects
@@ -14,7 +18,7 @@
 ### Languages and Tools: 
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th/id/OIP.lZHtgsqo0gww25bLcpjTqQHaHZ?w=189&h=188&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="c" width="50" height="50"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="c" width="50" height="50"/> </a>
 <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://tse4.mm.bing.net/th/id/OIP.an9Ga3nqMRM1MDxI149CWwAAAA?rs=1&pid=ImgDetMain" alt="c" width="50" height="50"/> </a> 
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://beartell.com/img/databricks.png" alt="arduino" width="50" height="50"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://tse1.mm.bing.net/th/id/OIP.8nAVT4tTnoeqVj4ScdzPiwHaHY?w=169&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="arduino" width="50" height="50"/> </a>
